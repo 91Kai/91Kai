@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @91Kai
-- 👀 I’m interested in Linux, C, PHP an more
+- 👋 Hi, I’m new on Github, my name is @91Kai from Mannheim, Germany.
+- 👀 I’m interested in Linux, Web Application Security and more. I only do this as a hobby, but have been for many years!
